@@ -69,12 +69,8 @@ npm run dev
 
 
 ## 📌 Output
-
-You should see:
-
-```
  ![alt text](image.png)
-```
+
 
 ---
 
