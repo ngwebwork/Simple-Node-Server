@@ -73,7 +73,7 @@ npm run dev
 You should see:
 
 ```
-![alt text](image.png)
+ ![alt text](image.png)
 ```
 
 ---
